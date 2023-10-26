@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       <Container>
-        <Heading />
+        <Heading classroon='66i' enable={true} />
         <Subheading></Subheading>
       </Container>
     </div>
